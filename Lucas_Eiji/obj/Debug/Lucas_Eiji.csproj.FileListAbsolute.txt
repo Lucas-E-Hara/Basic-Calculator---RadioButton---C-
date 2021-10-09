@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\bin\Debug\Lucas_Eiji.exe.config
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\bin\Debug\Lucas_Eiji.exe
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\bin\Debug\Lucas_Eiji.pdb
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\obj\Debug\Lucas_Eiji.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\obj\Debug\Lucas_Eiji.Form1.resources
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\obj\Debug\Lucas_Eiji.Properties.Resources.resources
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\obj\Debug\Lucas_Eiji.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\obj\Debug\Lucas_Eiji.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\obj\Debug\Lucas_Eiji.exe
+C:\Users\lucas\source\repos\Lucas_Eiji\Lucas_Eiji\obj\Debug\Lucas_Eiji.pdb
